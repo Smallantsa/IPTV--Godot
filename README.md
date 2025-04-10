@@ -3,8 +3,8 @@
 一个不怎么样的播放器，还有很多问题 ，Godot+ ffmpeg 实现的
 
 
-![#100%](7fa9d18c4c6462cdef5ea09c179bd15f)
+![#100%](f332f7d1-9c42-4d39-bab6-e60a276e4e92.png)
 
-![#100%](assets__sj\README\826a2e68ef09bd945f97efd782d762c2)
+![#100%](415f3d65-8100-4c10-9e84-d165d42b67c0.png)
 
-![#100%](assets__sj\README\6f182e29cb02ad08eee8f15cc380eea8)
+![#100%](7e768d74-9975-47ad-b200-b0b526c886cd.png)
